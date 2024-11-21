@@ -1,0 +1,420 @@
+ID;City
+65338;Aarhus
+60013;Abu Dhabi
+71389;Akureyri
+76558;Albufeira
+66088;Alicante
+75064;Alphen aan den Rijn
+97582;Amboise
+97579;Amnéville
+75061;Amsterdam
+67158;Angers
+78987;Antalya
+68016;Antigua Guatemala
+60863;Antwerp
+72022;Aosta
+75059;Apeldoorn
+75334;Arequipa
+75058;Arnhem
+95315;Astorga
+99239;Athens
+79980;Atlanta
+80986;Auburn Hills
+184100;Avignon
+78545;Ayutthaya
+186855;Bakewell
+85333;Balchik
+80176;Baltimore
+87579;Banff
+78586;Bangkok
+66342;Barcelona
+210005;Bari
+60331;Bariloche
+67623;Bath
+67614;Belfast
+66061;Benalmádena
+66059;Benidorm
+71991;Bergamo
+65144;Berlin
+76477;Bethlehem
+66335;Bilbao
+67597;Birmingham
+67591;Blackpool
+60852;Blankenberge
+78967;Bodrum
+81;Bogotá
+71986;Bologna
+67101;Bordeaux
+80874;Boston
+67098;Boulogne-sur-Mer
+67582;Bournemouth
+76598;Braga
+98490;Brampton
+115866;Bran
+260938;Bra?ov
+71978;Brescia
+67570;Brighton
+60844;Bruges
+60843;Brussels
+76753;Bucharest
+68199;Budapest
+60189;Buenos Aires
+60950;Burgas
+67081;Caen
+71473;Cagliari
+60466;Cairns
+62338;Calgary
+67548;Cambridge
+80879;Cambridge
+183;Çanakkale
+24;Cancún
+105984;Capri
+67073;Carcassonne
+67545;Cardiff
+105064;Caserta
+106390;Castel di Lama
+71461;Catania
+90598;Èeský Krumlov
+97278;Chamonix-Mont-Blanc
+67054;Champs-sur-Marne
+97268;Chantilly
+80045;Charleston
+80353;Charlotte
+182857;Chaumont-sur-Loire
+67038;Cherbourg-en-Cotentin
+80816;Chicago
+74049;Chichén Itzá
+97220;Chinon
+79784;Clermont
+182711;Cluny
+111536;Coevorden
+76595;Coimbra
+64765;Cologne
+71894;Como
+260939;Constan?a
+113;Copenhagen
+27;Córdoba
+1841;Cork
+370;Cozumel
+75323;Cusco
+65070;Dachau
+80608;Dallas
+85055;De Panne
+75020;Delft
+70505;Delhi
+68506;Denpasar
+120725;Derinkuyu
+199867;Derry
+105708;Dorgali
+65045;Dortmund
+65042;Dresden
+60005;Dubai
+68616;Dublin
+126;Durham
+65037;Düsseldorf
+21;Edinburgh
+75003;Eindhoven
+83806;Eisenstadt
+83553;El Calafate
+74999;Emmen
+74998;Enkhuizen
+64998;Essen
+82344;Fairbanks
+114807;Fátima
+97034;Ferney-Voltaire
+66292;Figueres
+71854;Florence
+67993;Flores
+261005;Flú?ir
+79817;Fort Lauderdale
+64980;Frankfurt
+76533;Funchal
+60815;Genk
+71831;Genoa
+60814;Ghent
+66285;Girona
+276;Giverny
+5;Glasgow
+120668;Göreme
+78108;Gothenburg
+66003;Granada
+60360;Graz
+203923;Grindavík
+71818;Grosseto
+74270;Guadalajara
+68006;Guatemala City
+70285;Gurgaon
+74982;Haarlem
+258507;Haines
+64886;Hamburg
+74980;Harderwijk
+60807;Hasselt
+64872;Haßloch
+258629;Healy
+66544;Helsinki
+203903;Höfn
+34;Hong Kong
+82342;Honolulu
+80638;Houston
+65996;Huelva
+260972;Húsafell
+203902;Húsavík
+60358;Innsbruck
+88270;Interlaken
+29;Inverness
+79079;Istanbul
+1343;Izmir
+322;Jasper
+68627;Jerusalem
+952;Kaatsheuvel
+82330;Kahului
+80090;Kansas City
+60435;Katoomba
+1246;Kauai (Island)
+125517;Kayenta
+81190;Kearny
+79844;Key West
+64775;Kiel
+79846;Kissimmee
+73367;Klaipeda
+78483;Ko Samui
+83755;Köflach
+46;Krakow
+74416;Kuala Lumpur
+78863;Kuºadas?
+64187;Kutná Hora
+72420;Kyoto
+66907;La Fl?che
+66897;La Rochelle
+772;Langkawi
+111406;Laren
+82073;Las Vegas
+62666;Lausanne
+137907;Lauterbrunnen
+260936;Le Mont-Saint-Michel
+74943;Leeuwarden
+74942;Leiden
+64715;Leipzig
+74940;Lelystad
+261269;Les Diablerets
+180481;Les Epesses
+66864;Les Sables-d'Olonne
+63843;Leticia
+63976;Liberia
+71809;Lido di Jesolo
+66858;Lille
+75306;Lima
+76528;Lisbon
+260931;Lisse
+67463;Liverpool
+71786;Livorno
+78133;Ljubljana
+67458;London
+81810;Los Angeles
+248469;Loxahatchee
+71784;Lucca
+66838;Lyon
+74931;Maastricht
+47;Macau
+66254;Madrid
+32;Málaga
+471;Mallorca
+67441;Manchester
+207794;Manta
+78854;Marmaris
+66825;Marseille
+71760;Matera
+60769;Mechelen
+63829;Medellín
+74395;Melaka
+60426;Melbourne
+80554;Memphis
+66814;Metz
+74040;Mexico City
+79868;Miami
+71749;Milan
+81094;Minneapolis
+71744;Modena
+73505;Monaco
+207409;Monterosso al Mare
+96478;Monteux
+82413;Montevideo
+66788;Montpellier
+25;Montreal
+77231;Moscow
+31;Munich
+75189;Muscat
+80512;Myrtle Beach
+95595;Naantali
+66776;Nantes
+71720;Naples
+72353;Nara
+82353;Nashville
+65926;Nerja
+78844;Nevºehir
+80162;New Orleans
+260932;New York
+185710;Newcastle
+62419;Niagara Falls
+81337;Niagara Falls
+982;Niagara-On-The-Lake
+66770;Nice
+74919;Nijmegen
+74916;Nuenen
+194489;Nusajaya
+106481;Ocho Rios
+245910;Ölüdeniz
+60750;Oostende
+79889;Orlando
+71696;Orvieto
+28;Osaka
+75084;Oslo
+62431;Ottawa
+67381;Oxford
+138;Padua
+105173;Padula
+71428;Palermo
+79898;Palm Springs
+71684;Parabiago
+66746;Paris
+48;Pattaya
+179024;Peaugres
+71679;Perugia
+80492;Philadelphia
+81637;Phoenix
+124347;Pigeon Forge
+260935;Pisa
+73927;Playa del Carmen
+66735;Poitiers
+67363;Poole
+80975;Portland
+177169;Porto
+76573;Porto
+67358;Portsmouth
+64529;Potsdam
+206622;Pozza di Fassa
+64162;Prague
+30;Puerto Iguazú
+74201;Puerto Vallarta
+75296;Puno
+63796;Quimbaya
+65652;Quito
+1320;Reykholt
+22;Reykjavík
+73383;Riga
+71634;Rimini
+61535;Rio de Janeiro
+71631;Rome
+65896;Ronda
+74895;Rotterdam
+66502;Rovaniemi
+74887;s-Hertogenbosch
+122690;Saint Augustine
+77061;Saint Petersburg
+177951;Saint-Émilion
+177952;Sainte M?re l'Eglise
+67309;Salisbury
+60240;Salta
+60346;Salzburg
+78528;Samut Songkhram
+248671;San Antonio
+83245;San Clemente del Tuyú
+81920;San Diego
+1772;San Francisco
+71409;San Giovanni la Punta
+81926;San Jose
+66172;San Sebastián
+898;Santa Cruz
+66168;Santander
+232513;Sãpânþa
+104177;Sau?árkrókur
+80026;Savannah
+82304;Seattle
+66160;Segovia
+73067;Seoul
+784;Sevenum
+65870;Seville
+119195;Sežana
+60007;Sharjah
+72961;Siem Reap
+71558;Siena
+76778;Sighi?oara
+115342;Sinaia
+78125;Singapore
+76496;Sintra
+71400;Siracusa
+292;Skagway
+839;Slagharen
+108895;Sliema
+60916;Sliven
+60914;Sofia
+261071;Somersby
+126046;Sonoma
+71552;Sorrento
+261236;South Kuta
+68069;Split
+301;Squamish
+84775;Stavelot
+1638;Stockholm
+67269;Stoke-on-Trent
+97844;Stratford-upon-Avon
+60400;Sydney
+79181;Taipei
+65702;Tallinn
+79946;Tampa
+66154;Tarragona
+68635;Tel Aviv
+66150;Teruel
+74889;The Hague
+74872;Tilburg
+71537;Tivoli
+72181;Tokyo
+170113;Toledo
+62492;Toronto
+83942;Torquay
+66619;Toulouse
+66615;Tours
+205342;Tredozio
+71524;Treviso
+109113;Tulum
+71534;Turin
+68270;Ubud
+176560;Ungersheim
+71518;Urbino
+60210;Ushuaia
+74866;Utrecht
+65847;Valencia
+73787;Valletta
+62496;Vancouver
+66489;Vantaa
+205179;Varenna
+71514;Varese
+60906;Varna
+71510;Venice
+73840;Veracruz
+72048;Verbania
+71506;Verona
+62501;Victoria
+60335;Vienna
+71390;Vík
+73352;Vilnius
+71494;Viterbo
+74851;Volendam
+82338;Wailuku
+1036;Waimanalo
+261137;Wangetti
+485;Warsaw
+79751;Washington, D.C.
+68596;Waterford
+83662;Wattens
+67236;Weymouth
+260937;Williamsburg
+97691;Windermere
+67223;Windsor
+64249;Wolfsburg
+81390;Yonkers
+82014;Yorba Linda
+67204;York
+74827;Zaandam
+228605;Zator
+74819;Zundert
