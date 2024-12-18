@@ -1,0 +1,1 @@
+Graphical visualization of the budgets of the different films in the Harry Potter series using bar chart in Pandas.

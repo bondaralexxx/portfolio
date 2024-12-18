@@ -1,0 +1,1 @@
+Classification of stock price in relation to average price and visualization using pie chart.

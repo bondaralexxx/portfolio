@@ -1,0 +1,1 @@
+Classification of stock market shares based on profitability at the end of the stock day and visualization on a barh chart
