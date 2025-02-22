@@ -6,6 +6,8 @@ Sales analysis in different time periods using time axis slicer.
 - total sales comparison for different countries;
 - sales analysis by model colors;
 - pie chart for payment method analysis;
+
+  
   
 
 ![e_shop_image](https://github.com/user-attachments/assets/04600815-a8ae-40ee-bad6-289274453669)
