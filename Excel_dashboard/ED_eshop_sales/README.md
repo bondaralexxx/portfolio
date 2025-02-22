@@ -1,5 +1,6 @@
 Interactive e-shop sales analysis dashboard in Excel, using different charts and graphs.
-Excel_dashboard/ED_eshop_sales/e_shop_image.png
+![e_shop_image](https://github.com/user-attachments/assets/04600815-a8ae-40ee-bad6-289274453669)
+
 
 
 
