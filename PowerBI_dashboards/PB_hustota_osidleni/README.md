@@ -1,6 +1,6 @@
 Interactive map of population density in the Czech Republic.
 - using and settings of "shape map" visualization;
-- using "table" visualization
+- using "table" visualization.
 
 Whole map: 
 
