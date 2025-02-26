@@ -7,3 +7,7 @@ Initially I had the file in Power Query in the following form, which was absolut
 
 ![initial_state_file_img_2](https://github.com/user-attachments/assets/3109f24d-744e-4961-bc3c-ddfba3348118)
 
+In the end we got the file in the following correct form:
+![final_state_file_img](https://github.com/user-attachments/assets/a644f3fa-e47d-4aed-ac60-75935c1b1af0)
+
+
