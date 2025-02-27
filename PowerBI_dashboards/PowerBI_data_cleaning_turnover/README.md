@@ -18,9 +18,11 @@ What was done:
 6. Unpiwot columns.
 
 In the end we got the file in the following correct form:
+
 ![final_state_file_img](https://github.com/user-attachments/assets/a644f3fa-e47d-4aed-ac60-75935c1b1af0)
 
 This helped to quickly and correctly build a simple report that shows the dynamics of turnover.
+
 ![report_img](https://github.com/user-attachments/assets/405f3a1a-92b3-45eb-8b2c-1753d086e4cd)
 
 
