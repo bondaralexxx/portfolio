@@ -7,4 +7,22 @@ Allows us to find out:
 - average travel time;
 - from which countries and where;
 - reserved attractions;
-- wonders of world.  
+- wonders of the world;
+- and other insights.
+
+The skills that were used to create this report:
+- getting dates;
+- cleaning and formatting dates;
+- merging tables;
+- appending tables;
+- creating different graphs:
+    - line chart;
+    - pie chart;
+    - cards;
+    - multi-row card;
+    - tables;
+    - treemap;
+    - funnel;
+    - slicer;
+    - map.
+- creating buttons (tabs for switching between pages).
