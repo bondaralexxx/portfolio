@@ -1,6 +1,7 @@
 The simple report that allows to analyze the population and area of countries and continents in the world.
 
-![states continents_img](https://github.com/user-attachments/assets/3150ed83-917d-4f80-9900-d8b52eaa0ccb)
+![states_continents_img](https://github.com/user-attachments/assets/66387943-8a0a-469b-becf-5f6fe84849f1)
+
 
 Visualizations used:
 - table;
