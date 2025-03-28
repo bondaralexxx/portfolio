@@ -1,5 +1,6 @@
 Sales report (dashboard)
 
-![sales_report_img](https://github.com/user-attachments/assets/623f004a-5290-47bc-9fc1-39fd5afdf87c)
+![sales_analysis_img](https://github.com/user-attachments/assets/deb6a58a-02e2-4cae-9ada-2437e6980f43)
+
 
 
