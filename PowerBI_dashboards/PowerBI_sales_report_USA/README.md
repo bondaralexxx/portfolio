@@ -30,7 +30,10 @@ DIVIDE:
     - % of orders without profit;
     - % profit margine;
 
+    
+
 The second page of the report shows how the sales report can be adapted to the management of a specific region by providing filtering using quick measures (in this case filtering the average order for the region South)
+
 ![sales_report_south_img](https://github.com/user-attachments/assets/30fe6584-1882-4d50-a7db-b63f4fa53369)
     
 
