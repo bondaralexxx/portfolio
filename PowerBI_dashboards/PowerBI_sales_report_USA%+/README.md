@@ -28,7 +28,5 @@ DIVIDE:
     - % of orders without profit;
     - % profit margine;
 
-The second page of the report shows how the sales report can be adapted to the management of a specific region by providing filtering using quick measures (in this case filtering the average order for the region South)
-
     
 
