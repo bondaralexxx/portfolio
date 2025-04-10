@@ -2,10 +2,6 @@ Sales report of a company that sells in the USA.
 
 ![sales_report_img](https://github.com/user-attachments/assets/71651741-8c49-4480-b721-a79ea52d0608)
 
-
-![sales_report_south_img](https://github.com/user-attachments/assets/30fe6584-1882-4d50-a7db-b63f4fa53369)
-
-
 The report allows to track:
 - the total sales volume;
 - total profit;
@@ -35,6 +31,6 @@ DIVIDE:
     - % profit margine;
 
 The second page of the report shows how the sales report can be adapted to the management of a specific region by providing filtering using quick measures (in this case filtering the average order for the region South)
-
+![sales_report_south_img](https://github.com/user-attachments/assets/30fe6584-1882-4d50-a7db-b63f4fa53369)
     
 
