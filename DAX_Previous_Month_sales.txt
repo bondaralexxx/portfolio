@@ -1,0 +1,5 @@
+Previous Month = 
+CALCULATE(
+    TOTALMTD([Total Sales], 'Calendar'[Date]),
+    PREVIOUSMONTH('Calendar'[Date])
+)
