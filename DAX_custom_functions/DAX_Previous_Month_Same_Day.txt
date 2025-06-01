@@ -1,0 +1,13 @@
+Previous Month Same Day = 
+VAR LastSelectedDate = MAX('Calendar'[Date])  -- Last selected date in the filter
+VAR FirstDayCurrentMonth = STARTOFMONTH('Calendar'[Date])  -- First day of the current month
+VAR DaysCount = DATEDIFF(FirstDayCurrentMonth, LastSelectedDate, DAY)  -- Number of days from start of the month to selected date
+
+VAR FirstDayPreviousMonth = STARTOFMONTH(PREVIOUSMONTH('Calendar'[Date]))  -- First day of the previous month
+VAR LastSelectedDatePreviousMonth = EDATE(LastSelectedDate, -1)  -- Same day as selected date, but in the previous month
+
+RETURN
+CALCULATE(
+    [Total Sales],
+    DATESBETWEEN('Calendar'[Date], FirstDayPreviousMonth, LastSelectedDatePreviousMonth)
+)
