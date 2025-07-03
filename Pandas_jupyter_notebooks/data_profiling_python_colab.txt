@@ -1,0 +1,22 @@
+# Nainstalujeme potřebnou knihovnu
+!pip install ydata-profiling
+
+# Naimportujeme knihovny
+import pandas as pd
+import ydata_profiling as ydp
+from google.colab import files
+
+# Nahrání Excel souboru z lokálního počítače
+uploaded = files.upload()  # Vyberte soubor power_query.xlsx
+
+# Načtení Excel souboru s požadovaným listem
+df = pd.read_excel("power_query.xlsx", sheet_name="imdb_top_1000 (2)")
+
+# Vytvoření profilačního reportu
+report = ydp.ProfileReport(df, title="Data Profiling Report", explorative=True)
+
+# Uložení reportu do HTML souboru
+report.to_file("profiling_report.html")
+
+# Stáhnutí reportu na počítač
+files.download("profiling_report.html")
